@@ -1,0 +1,6 @@
+new requiremnets need to be done in bgppl mobile application as per my knowledge
+
+1.auto generated serial number
+2.new field should be added in all scenarios ==> Stack and Child SerialNumber
+3.flag to identify the checked sample lot is enough for weigh machine.
+4.only 3 icons in the menu 

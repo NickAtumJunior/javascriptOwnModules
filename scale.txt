@@ -1,0 +1,5 @@
+scale,year,month,date,running number
+
+AAAL28001
+
+AABA01001	
